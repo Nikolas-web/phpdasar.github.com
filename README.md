@@ -11,13 +11,6 @@ Fitur LiveSearching akan secara instan mencari data yang diinginkan disaat user 
 ![Screenshot (208)](https://user-images.githubusercontent.com/109846033/187924597-cf27103b-0a6b-4dd6-9a54-904e2579e1b4.png)
 
 ## Requirements
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML
 to Markdown converter
-- [jQuery] - duh
+- [jQuery](https://jquery.com/download/)
