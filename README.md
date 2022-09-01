@@ -1,5 +1,3 @@
-# phpdasar.github.com
-My project PHP dasar
 # Dillinger
 ## _The Last Markdown Editor, Ever_
 
