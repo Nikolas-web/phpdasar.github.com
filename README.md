@@ -11,6 +11,4 @@ Fitur LiveSearching akan secara instan mencari data yang diinginkan disaat user 
 ![Screenshot (208)](https://user-images.githubusercontent.com/109846033/187924597-cf27103b-0a6b-4dd6-9a54-904e2579e1b4.png)
 
 ## Requirements
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
 - [jQuery](https://jquery.com/download/)
