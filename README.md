@@ -1,5 +1,7 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# LiveSearch menggunakan jQuery
+## CRUD sederhana dengan Fitur LiveSearching menggunakan JQuery. LiveSearching sendiri adalah fitur search bisa/tanpa menggunakan tombol 'search/cari'.
+
+Fitur LiveSearching akan secara instan mencari data yang diinginkan disaat user mengetikkan kata/kalimat.
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
